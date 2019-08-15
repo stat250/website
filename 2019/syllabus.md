@@ -1,14 +1,13 @@
 ---
 layout: page
-title: Syllabus
-permalink: /syllabus/
+title: Syllabus - Harvard STAT250 - Fall 2019
 menu: Syllabus
 order: 2
 ---
 
 Welcome to CS171! This course is an introduction to key design principles and techniques for interactively visualizing data. The major goals of this course are to understand how visual representations can help in the analysis and understanding of complex data, how to design effective visualizations, and how to create your own interactive visualizations using modern web-based frameworks.
 
-This course, when taken for a letter grade, meets the Harvard General Education requirement for Empirical and Mathematical Reasoning. The course is also offered through the [Harvard University Extension School](http://www.extension.harvard.edu) as online course CSCI E-171. 
+This course, when taken for a letter grade, meets the Harvard General Education requirement for Empirical and Mathematical Reasoning. The course is also offered through the [Harvard University Extension School](http://www.extension.harvard.edu) as online course CSCI E-171.
 
 After completion of the course you will be able to:
 
@@ -22,8 +21,8 @@ After completion of the course you will be able to:
 
 ### Limited Enrollment
 To provide the best possible learning experience this course is limited to 80 college students and 30 DCE students, respectively.
-  
-*College students:* If you are interested in joining this course please fill out a enrollment survey. **The enrollment survey will be available AFTER the first lecture (Sept 4th, 5:00pm) until Sunday Sept 8th, midnight.** The survey is available on our Canvas page.  
+
+*College students:* If you are interested in joining this course please fill out a enrollment survey. **The enrollment survey will be available AFTER the first lecture (Sept 4th, 5:00pm) until Sunday Sept 8th, midnight.** The survey is available on our Canvas page.
 
 *Harvard Extension School (DCE) students:* Course enrollment is on a first-come, first-serve basis, starting July 29th.
 
@@ -37,13 +36,13 @@ We will be using two textbooks for this class, one to cover perceptual principle
 
 [Visual Thinking for Design](http://www.amazon.com/Visual-Thinking-Kaufmann-Interactive-Technologies/dp/0123708966),  Colin Ware, Morgan Kaufman (2008)
 
-![]({{ site.baseurl }}/assets/i/visual_thinking.jpg)
+![]({{ site.baseurl }}/assets/images/visual_thinking.jpg)
 All the clanking gears are here: variable resolution image detection, eye movements, environmental information statistics, bottom-up/top-down control structures, working memory, the nexus of meaning, and specialized brain areas and pathways. By the time he’s done, Ware has reconstructed cognitive psychology, perception, information visualization, and design into an integrated modern form. This book is scary good.” - Stuart Card, Senior Research Fellow, and manager of the User Interface Research group at the Palo Alto Research Center)
 
 [Interactive Data Visualization for the Web](http://shop.oreilly.com/product/0636920037316.do), Scott Murray, O'Reilly (2017)
-**Second edition! (The 2nd edition teaches D3 Version 4, which we will be using in this course!)** 
+**Second edition! (The 2nd edition teaches D3 Version 4, which we will be using in this course!)**
 
-![]({{ site.baseurl }}/assets/i/interactive_data_visualization.jpg)
+![]({{ site.baseurl }}/assets/images/interactive_data_visualization.jpg)
 *An introduction to D3 for people new to programming and web development, published by O’Reilly. “Explaining tricky technical topics with aplomb (and a little cheeky humor) is Scott Murray’s forte. If you want to dive into the world of dynamic visualization using web standards, even if you are new to programming, this book is the place to start.” - Mike Bostock, creator of D3*
 <br />
 
@@ -52,12 +51,12 @@ You can purchase both books from the [Coop bookstore](https://tinyurl.com/300-CS
 ## Course Components
 
 ### Lectures
-The class meets weekly for lectures and joint class activities. Attending lectures is a crucial component of learning the material presented in this course. Please arrive on time, as we will start promptly with a short graded quiz about the required readings. At the end of each lecture we will ask you to fill out and submit a one-minute reflection to collect feedback. 
+The class meets weekly for lectures and joint class activities. Attending lectures is a crucial component of learning the material presented in this course. Please arrive on time, as we will start promptly with a short graded quiz about the required readings. At the end of each lecture we will ask you to fill out and submit a one-minute reflection to collect feedback.
 
 *DCE Students:* We will stream the recorded lectures in a life session on Thursdays 7:40-10:10pm. Each class is a combination of lecturing and active learning session, which is why attendance is mandatory. Completed lecture activities and one-minute papers need to be submitted with your homework each week. We will also make lecture recordings available to DCE students after the life session.
 
 ### Labs
-For most of the semester, we will hold programming labs during regular class meeting times on Mondays. Labs are interactive tutorials with downloadable code that give you an introduction to client-side web programming with HTML, CSS, Javascript, and D3. You are allowed to work in pairs, but each student needs to hand in their own lab solution. Completed labs need to be handed in with the homework each week.  
+For most of the semester, we will hold programming labs during regular class meeting times on Mondays. Labs are interactive tutorials with downloadable code that give you an introduction to client-side web programming with HTML, CSS, Javascript, and D3. You are allowed to work in pairs, but each student needs to hand in their own lab solution. Completed labs need to be handed in with the homework each week.
 
 *DCE Students:* Labs are self-guided tutorials that you can complete on your own. If you want more guidance, we offer interactive lab sessions on Mondays 7:55-9:55pm. Completed labs need to be handed in with your homework each week.
 
@@ -68,9 +67,9 @@ Each lecture and lab includes required readings to ensure that you are prepared 
 Weekly homework assignments are going to provide an opportunity to improve your design and programming skills. See the homework as an opportunity to learn, and not to “earn points”. The homework will be graded holistically to reflect this objective.
 
 ### Midterm
-There will be a midterm exam that will cover material from lectures, assigned readings, labs, and homework assignments. If you do not keep up with the readings, come to lecture, and complete the homework and labs you will be at a severe disadvantage during the midterms. The midterm consists of a ~90 minutes open-book (in-class) exam as well as a take-home midterm project where you will implement an interactive visualization in D3 over the course of a couple of days.  
+There will be a midterm exam that will cover material from lectures, assigned readings, labs, and homework assignments. If you do not keep up with the readings, come to lecture, and complete the homework and labs you will be at a severe disadvantage during the midterms. The midterm consists of a ~90 minutes open-book (in-class) exam as well as a take-home midterm project where you will implement an interactive visualization in D3 over the course of a couple of days.
 
-*DCE students:* The midterms will be open-book, not proctored, but limited to a fixed time span from the time you start it. For the take-home midterm project you will get the same amount of time as college students.
+_DCE students:_ The midterms will be open-book, not proctored, but limited to a fixed time span from the time you start it. For the take-home midterm project you will get the same amount of time as college students.
 
 ### Design Sprints
 A big part of the lectures will be a design sprint. You will work in groups of 3-4 students to design, implement, and evaluate visualizations for a given topic and pre-defined dataset over the course of 8 weeks.
@@ -82,22 +81,27 @@ A major part of the course is a final group project. You will work in groups of 
 
 This course can be taken for a letter grade only, there is no pass/fail option. The course grade comprises:
 
-* Quizzes (5%)* Labs (5%)* Homework Assignments (30%)* Midterm (20%)* Design Sprint (10%)* Group Project (30%)
+* Quizzes (5%)
+* Labs (5%)
+* Homework Assignments (30%)
+* Midterm (20%)
+* Design Sprint (10%)
+* Group Project (30%)
 
-We will map your points to letter grades using the following table:  
-* A: 100-95%; A-: 90-95%    
-* B+: 85-90%; B: 80-85%; B-: 75-80%   
-* C+: 70-75%; C: 65-70%; C-: 60-65%   
-* D+: 55-60%; D: 50-55%: D-: 45-50%  
+We will map your points to letter grades using the following table:
+* A: 100-95%; A-: 90-95%
+* B+: 85-90%; B: 80-85%; B-: 75-80%
+* C+: 70-75%; C: 65-70%; C-: 60-65%
+* D+: 55-60%; D: 50-55%: D-: 45-50%
 * F < 45%
 
 Your lowest 3 scores on all quizzes will be dropped.
 
-There are several mandatory class meetings such as the midterm, guest lectures, project discussions, project demos, etc. Please check the schedule, plan accordingly, and do not miss these classes. 
+There are several mandatory class meetings such as the midterm, guest lectures, project discussions, project demos, etc. Please check the schedule, plan accordingly, and do not miss these classes.
 
 Any concerns about grading errors must be noted in writing and submitted to your TF within one week of receiving the grade.
 
-*Graduate-credit:*  
+*Graduate-credit:*
 Students taking this course for graduate credit are expected to do more work and perform at higher standards than undergraduate-credit students. In particular, graduate-credit students are required to complete all bonus parts in assigned homeworks and we expect a more comprehensive final project.
 
 ## Course Policies
@@ -105,7 +109,7 @@ Students taking this course for graduate credit are expected to do more work and
 ### Late Policy
 **No homework assignments or project milestones will be accepted for credit after the deadline.** Homework assignments will be posted on the website on Mondays and will be due the following Sunday (listed in the course schedule). Solutions to labs will be made public the week after the lab has been published. Solutions to homework assignments can be discussed in office hours but will not be posted publicly.
 
-If you have a verifiable medical condition or other special circumstances that interfere with your coursework please let us know as soon as possible. You will need to provide a written note from a medical professional confirming your inability to participate in course work. 
+If you have a verifiable medical condition or other special circumstances that interfere with your coursework please let us know as soon as possible. You will need to provide a written note from a medical professional confirming your inability to participate in course work.
 
 ### Collaboration Policy
 We expect you to adhere to the [Harvard Honor Code](http://honor.fas.harvard.edu/honor-code) at all times. Failure to adhere to the honor code and our policies may result in serious penalties, up to and including automatic failure in the course and reference to the ad board.
@@ -120,10 +124,10 @@ You may discuss your homework and labs with other people, but you are expected t
 * you cannot share written materials or code with anyone else;
 * you should not view any written materials or code created by anyone else for the assignment;
 * you should list all your collaborators (everyone you discussed the assignment with) in your submission;
-* you may not submit the same or similar work to this course that you have submitted or will submit to another; and 
+* you may not submit the same or similar work to this course that you have submitted or will submit to another; and
 * you may not provide or make available solutions to individuals who take or may take this course in the future.
 
-If the assignment allows it you may use third-party libraries and example code, so long as the material is available to all students in the class and you give proper attribution. Do not remove any original copyright notices and headers. 
+If the assignment allows it you may use third-party libraries and example code, so long as the material is available to all students in the class and you give proper attribution. Do not remove any original copyright notices and headers.
 
 
 ### Devices in Class
@@ -136,15 +140,15 @@ Any student receiving accommodations through the Accessible Education Office sho
 
 *DCE students:* The Extension School is committed to providing an accessible academic community. The Accessibility Office offers a variety of accommodations and services to students with documented disabilities. Please visit www.extension.harvard.edu/resources-policies/resources/disability-servicesaccessibility for more information.
 
-## Course Resources 
+## Course Resources
 
 ### Online Materials
-All class activity handouts, slides, homeworks, labs, and required readings will be posted on Canvas. 
+All class activity handouts, slides, homeworks, labs, and required readings will be posted on Canvas.
 
 <!-- All lectures will be recorded and videos will be available within 24 hours after class time from the course homepage. One of the studios will be recorded and made available online by the end of each week. -->
 
 ### Discussion Forum
-We use Piazza as our discussion forum and for all announcements, so it is important that you are signed up as soon as possible. Piazza should always be your first resource for seeking answers to your questions. You can also post privately so that only the staff sees your message.  
+We use Piazza as our discussion forum and for all announcements, so it is important that you are signed up as soon as possible. Piazza should always be your first resource for seeking answers to your questions. You can also post privately so that only the staff sees your message.
 
 ### Office Hours
 The teaching fellows will provide office hours for individual questions that you might have about the homework assignments or project progress. As office hours are usually very heavily attended, please consult Piazza as a first option to get help.

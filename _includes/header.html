@@ -1,17 +1,27 @@
 <header class="site-header">
 
   <div class="wrap">
-<div class="site-title-all">
-    <!-- <div><a class="site-title" href="{{ site.baseurl }}/">{{ site.title }}</a></div> -->
-    <!-- <div class="site-subtitle">CS-171 / CSCI E-171</div> -->
-	<a class="site-title" href="#">
-	<img style="float:left; padding:0;" id="cs171Logo" src="{{ site.baseurl }}/assets/i/cs171-logo-label.png" alt="cs171-logo" width='200'/> 		
-	</a>
+    <div class="site-title-all">
+      <div id="title" class="flex-c">
+        <div id="title-logo" class="flex-c flex-a-c"><img src="" alt="Logo"></div>
+        <div id="title-text" class="flex-c flex-v">
+          <div id="title-harvard">Harvard</div>
+          <div class="flex-c">
+            <span id="title-stat250">STAT 250</span>
+            <span id="title-year">2019</span>
+          </div>
+        </div>
+      </div>
+    </div>
 
-</div>
-
-    <div id="harvardLogo" style="padding:0;"><img style="padding:0;" id="harvardLogoImg" src="{{ site.baseurl }}/assets/i/harvard.svg" alt="harvard-logo" onerror="this.src='{{ site.baseurl }}/assets/i/harvard.png'" /></div>
-
+    <div id="harvard-logo">
+      <img
+        id="harvard-logo-img"
+        src="{{ site.baseurl }}/assets/images/harvard-seas-logo.svg"
+        alt="Harvard Logo"
+        onerror="this.src='{{ site.baseurl }}/assets/images/harvard-seas-logo.png'"
+      />
+    </div>
 
   </div>
 
@@ -29,23 +39,27 @@
         </svg>
       </a>
 
-      <div class="trigger">
-
-
+      <ul class="no-list-style flex-c">
         {% assign spages = site.pages | sort: 'order' %}
 
-        {% for page in spages %}
-        {% unless page.exclude %}
-        {% if page.nomenu  %}
-        {% else %}
-        <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.menu }}</a>
-        {% endif %}
-        {% endunless %}
+        {% for spage in spages %}
+          {% unless spage.url == "/" or spage.url == "/redirects.json" or spage.exclude or spage.nomenu %}
+          <li class="flex-g-1">
+            <a
+              href="{{ spage.url | prepend: site.baseurl }}"
+              class="{% if page.url == spage.url %}active{% endif %}"
+            >
+              {{ spage.menu }}
+            </a>
+          </li>
+          {% endunless %}
         {% endfor %}
-        <a class="page-link" href="https://canvas.harvard.edu/courses/61741">Canvas</a>
-        <a class="page-link" href="https://piazza.com/class/cs171">Piazza</a>
-
-      </div>
+        <li class="flex-g-1">
+          <a href="https://canvas.harvard.edu/courses/61741">
+            Canvas
+          </a>
+        </li>
+      </ul>
     </nav>
 
   </div>

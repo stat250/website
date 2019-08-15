@@ -1,0 +1,33 @@
+<footer class="site-footer">
+
+  <div class="wrap">
+    <div class="flex-c flex-jc-sb flex-a-c">
+      <h2 class="footer-heading">Harvard STAT 250 (2019)</h2>
+
+      <nav>
+        <ul class="flex-c">
+          {% assign spages = site.pages | where_exp: "item" , "item.path contains '2019'" | sort: 'order' %}
+
+          {% for spage in spages %}
+           {% unless spage.url == "/" or spage.url == "/redirects.json" or spage.exclude or spage.nomenu %}
+            <li>
+              <a
+                href="{{ spage.url | prepend: site.baseurl }}"
+                class="{% if page.url == spage.url %}active{% endif %}"
+              >
+                {{ spage.menu }}
+              </a>
+            </li>
+            {% endunless %}
+          {% endfor %}
+          <li>
+            <a href="https://canvas.harvard.edu/courses/61741">
+              Canvas
+            </a>
+          </li>
+        </ul>
+      </nav>
+    </div>
+  </div>
+
+</footer>

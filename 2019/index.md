@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page_2019
 title: Home
 menu: Home
 order: 1

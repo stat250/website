@@ -3,7 +3,13 @@
   <div class="wrap">
     <div class="site-title-all">
       <div id="title" class="flex-c">
-        <div id="title-logo" class="flex-c flex-a-c"><img src="" alt="Logo"></div>
+        <div id="title-logo" class="flex-c flex-a-c">
+          <img
+            src="{{ site.baseurl }}/assets/images/stat250-logo.svg"
+            alt="Logo"
+            onerror="this.src='{{ site.baseurl }}/assets/images/stat250-logo.png'"
+          />
+        </div>
         <div id="title-text" class="flex-c flex-v">
           <div id="title-harvard">Harvard</div>
           <div class="flex-c">

@@ -119,8 +119,9 @@ table th, table td {
 #title-logo img {
   width: 3.85rem;
   height: 3.85rem;
+  float: none;
+  padding: 0;
   margin-right: 1rem;
-  background: yellow;
 }
 
 #title-harvard {

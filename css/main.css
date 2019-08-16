@@ -148,13 +148,13 @@ table th, table td {
   box-shadow: inset 0 0 0 1px black;
 }
 
-#harvard-logo {
+#harvard-logos {
   float: right;
   padding: 0 0 0 0;
 }
 
-#harvard-logo-img {
-  height: 65px;
+.harvard-logo {
+  height: 4rem;
 }
 
 .date {

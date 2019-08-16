@@ -11,9 +11,9 @@ Data science combines data, statistical thinking, and computation to gain insigh
 
 ### Instructors
 
-- [Xiao-Li Meng](https://statistics.fas.harvard.edu/people/xiao-li-meng) (Whipple V. N. Jones Professor of Statistics in the Department of Statistics at Harvard University){:target="_blank"}
-- [Hanspeter Pfister](http://vcg.seas.harvard.edu/people/hanspeter-pfister) (An Wang Professor of Computer Science in the School of Engineering and Applied Sciences at Harvard University){:target="_blank"}
-- [Liberty Vittert](https://olin.wustl.edu/EN-US/Faculty-Research/Faculty/Pages/FacultyDetail.aspx?username=liberty.vittert) (Professor of Practice in Data Analytics at Washington University in St. Louis){:target="_blank"}
+- [Xiao-Li Meng](https://statistics.fas.harvard.edu/people/xiao-li-meng) (Whipple V. N. Jones Professor of Statistics in the Department of Statistics at Harvard University)
+- [Hanspeter Pfister](http://vcg.seas.harvard.edu/people/hanspeter-pfister) (An Wang Professor of Computer Science in the School of Engineering and Applied Sciences at Harvard University)
+- [Liberty Vittert](https://olin.wustl.edu/EN-US/Faculty-Research/Faculty/Pages/FacultyDetail.aspx?username=liberty.vittert) (Professor of Practice in Data Analytics at Washington University in St. Louis)
 
 
 ### Course Sessions

@@ -13,14 +13,14 @@ redirect_from: "/"
   alt="Teaser"
 />
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
+Data science combines data, statistical thinking, and computation to gain insights and make inferences and predictions. This seminar will focus on designing a new introductory data science course that takes a holistic approach to the data science process, helping students understand the key factors involved, from data collection and exploratory data analysis to modeling, evaluation, and communication of results. Participants in the seminar will also learn data science concepts through developing and evaluating data science case studies.
 
 
 ### Instructors
 
-- [Hanspeter Pfister](http://vcg.seas.harvard.edu/people/hanspeter-pfister) (Prof. in Computer Science)
-- [Hanspeter Pfister](http://vcg.seas.harvard.edu/people/hanspeter-pfister) (Prof. in Computer Science)
+- [Xiao-Li Meng](https://statistics.fas.harvard.edu/people/xiao-li-meng) (Whipple V. N. Jones Professor of Statistics in the Department of Statistics at Harvard University)
+- [Hanspeter Pfister](http://vcg.seas.harvard.edu/people/hanspeter-pfister) (An Wang Professor of Computer Science in the School of Engineering and Applied Sciences at Harvard University)
+- [Liberty Vittert](https://olin.wustl.edu/EN-US/Faculty-Research/Faculty/Pages/FacultyDetail.aspx?username=liberty.vittert) (Professor of Practice in Data Analytics at Washington University in St. Louis)
 
 
 ### Course Sessions

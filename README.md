@@ -1,4 +1,4 @@
-# STAT250 Website
+# Harvard STAT250 Course Website
 
 ## Install
 

@@ -1104,6 +1104,9 @@ table th, table td {
     -webkit-transform: translate(0, -100%);
         -ms-transform: translate(0, -100%);
             transform: translate(0, -100%);
+  }
+
+  body.ready .site-nav ul {
     -webkit-transition: -webkit-transform 0.3s cubic-bezier(0.25, 0.1, 0.25, 1);
     transition: -webkit-transform 0.3s cubic-bezier(0.25, 0.1, 0.25, 1);
     -o-transition: transform 0.3s cubic-bezier(0.25, 0.1, 0.25, 1);

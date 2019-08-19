@@ -18,4 +18,11 @@
 
   </body>
 
+  <script>
+    setTimeout(function() {
+      var classes = document.body.getAttribute('class');
+      document.body.setAttribute('class', classes + ' ready');
+    }, 300);
+  </script>
+
 </html>

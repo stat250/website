@@ -26,7 +26,7 @@ Monday and Wednesday 3:00-5:00pm, Location: [Pierce 301](https://www.google.com/
 Office hours are posted [here]({{ site.baseurl }}/schedule/#lab_oh_schedule).
 
 **Lecture Resources:**
-Discussion forum on [Piazza](https://piazza.com/harvard/fall2019/cs171).
+Discussion forum on [Piazza](https://piazza.com/harvard/fall2019/stat250/home).
 Materials and grades on [Canvas](https://canvas.harvard.edu/courses/61741)
 
 

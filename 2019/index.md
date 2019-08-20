@@ -29,7 +29,7 @@ Mondays, 3:00-5:30pm, Science Center 706.
 Monday, September 9, 2019.
 
 **Office Hours:**
-Office hours will be posted [here]({{ site.baseurl }}/schedule/#lab_oh_schedule).
+Office hours will be posted on [Canvas](https://canvas.harvard.edu/courses/61741)
 
 **Lecture Resources:**
 Discussion forum on [Piazza](https://piazza.com/harvard/fall2019/stat250/home).

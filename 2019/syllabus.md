@@ -5,7 +5,7 @@ menu: Syllabus
 order: 2
 ---
 
-Welcome to STAT250! This seminar will only be offered in the fall 2019. Do not miss your chance to be part of it!
+Welcome to STAT250! This seminar is limited enrollment, and will only be offered once; **please fill out [this survey](https://docs.google.com/forms/d/e/1FAIpQLSci5dnSypW6J7mNuCdlXb16Pu2-lTD_7XMFT9YjFu7SBcxdRQ/viewform?usp=sf_link) by Friday, September 6, if you are interested in joining!**
 
 ### How do you create a new, exciting data science course for the Harvard GenEd program?
 
@@ -13,9 +13,9 @@ This is the question that we, the instructors, faced over a year ago, and we hav
 
 ## Why should I take this course?
 
-Paraphrasing Hal Varian, Chief Economist at Google, who said that:
+Quoting Hal Varian, Chief Economist at Google, who said that:
 
-> “The sexy job in the next ten years will be <data scientists> [ed.]. The ability to take data, to be able to understand it, to process it, to extract value from it, to visualize it, to communicate it, that's going to be a hugely important skill.”
+> “The sexy job in the next ten years will be statistics. The ability to take data, to be able to understand it, to process it, to extract value from it, to visualize it, to communicate it, that's going to be a hugely important skill.”
 
 This seminar is your unique opportunity to get deep insights into data science by learning how to teach it. If you ever wondered about the intricacies of data science, how to teach a technical subject to students from widely varying backgrounds, and how to apply modern teaching principles in large college classes, then you should take this seminar.
 
@@ -46,30 +46,28 @@ Your final grade will proportionally be due to the following components:
 - You will learn about data science in different domains by teaching it.
 - You will learn and practice new pedagogical approaches and the case method.
 - You will learn to communicate and present data science cases to people from different disciplines
-You will develop and improve data science and software skills, starting at any level, with focus on acquiring data, performing statistical analysis, and presenting results verbally, numerically, and visually.
+- You will develop and improve data science and software skills, starting at any level, with focus on acquiring data, performing statistical analysis, and presenting results verbally, numerically, and visually.
 - You will acquire skills using Google Colab Notebooks in Python with statistical modules that include NumPy, Scikit-Learn, and Pandas.
 
 ### How can I enroll in this course?
-To assure that everybody gets a chance to actively participate in class we are limiting enrollment to 20 students. Since the semester start falls on a holiday (Labor Day) the first class will be on Monday, September 9, the same day your study cards are due. It is therefore important that you indicate your interest in enrolling by filling in the course survey by
+To assure that everybody gets a chance to actively participate in class we are limiting enrollment to 20 students. Since the semester start falls on a holiday (Labor Day) the first class will be on Monday, September 9, the same day your study cards are due. It is therefore important that you **indicate your interest in enrolling by filling out [this survey](https://docs.google.com/forms/d/e/1FAIpQLSci5dnSypW6J7mNuCdlXb16Pu2-lTD_7XMFT9YjFu7SBcxdRQ/viewform?usp=sf_link) by September 6!**
 
 ### Can only graduate students enroll?
 While we generally will give preference to graduate students, we also welcome undergraduates with a strong disciplinary background (typically exemplified by your grades or other relevant experience) who are excited to help us design a new Harvard GenEd course. How many times do you get that opportunity, right?
 
-*[To make the syllabus more visually appealing, please put the following Q&A into text boxes alongside the other text. I leave the design up to you.]*
-
-What textbook do I need?
+### What textbook do I need?
 There are no textbooks. Instead you will be given PDFs of articles throughout the semester.
 
-What are the course assignments?
+### What are the course assignments?
 Take a look at the course schedule to see the due dates for homework and project milestones. These will be described in more detail in the descriptions for each assignment that we will upload on Canvas.
 
-What is Elements of Data Science (DS10)?
-Take a look at the preliminary course syllabus for Elements of Data Science (DS10), the new undergraduate data science course that we are developing for spring 2020. Your contributions in STAT250 will have a big influence on the final content of DS10.
+### What is Elements of Data Science (DS10)?
+Elements of Data Science (DS10) is the new undergraduate data science course that we are developing for spring 2020. Your contributions in STAT250 will have a big influence on the final content of DS10.
 
-Where can I get extra help?
+### Where can I get extra help?
 Your first line of defense for any questions should be the course forum on Piazza. The TF will also be available for office hours.
 
-What does a typical class look like?
+### What does a typical class look like?
 Classes will be a mix of activities, discussions, project presentations, and occasional guest lectures. We will keep the ‘lecturing to you’ to a minimum to keep the class engaging, informative, and fun.
 
 ---

@@ -11,16 +11,20 @@ Data science combines data, statistical thinking, and computation to gain insigh
 
 ### Instructors
 
-- [Xiao-Li Meng](https://statistics.fas.harvard.edu/people/xiao-li-meng) (Whipple V. N. Jones Professor of Statistics in the Department of Statistics at Harvard University)
+- [Joseph Blitzstein](http://www.people.fas.harvard.edu/~blitz/Site/Home.html) (Professor of the Practice in Statistics in the Department of Statistics at Harvard University)
+- [Allen Downey](http://www.allendowney.com/wp/) (Visiting Professor in Computer Science in the School of Engineering and Applied Sciences at Harvard University)
 - [Hanspeter Pfister](http://vcg.seas.harvard.edu/people/hanspeter-pfister) (An Wang Professor of Computer Science in the School of Engineering and Applied Sciences at Harvard University)
-- [Liberty Vittert](https://olin.wustl.edu/EN-US/Faculty-Research/Faculty/Pages/FacultyDetail.aspx?username=liberty.vittert) (Professor of Practice in Data Analytics at Washington University in St. Louis)
+- [Xiao-Li Meng](https://statistics.fas.harvard.edu/people/xiao-li-meng) (Whipple V. N. Jones Professor of Statistics in the Department of Statistics at Harvard University)
+- [Liberty Vittert](https://olin.wustl.edu/EN-US/Faculty-Research/Faculty/Pages/FacultyDetail.aspx?username=liberty.vittert) (Visiting Assistant Professor in in the Department of Statistics at Harvard University)
 
 
 ### Course Sessions
 
-**Lectures & Labs:**
-Monday and Wednesday 3:00-5:00pm, Location: [Pierce 301](https://www.google.com/maps/place/Pierce+Hall/@42.3780874,-71.1192954,17z/data=!3m1!4b1!4m5!3m4!1s0x89e3774113de44af:0x5966efcfd3aa5965!8m2!3d42.3780874!4d-71.1171014?hl=en)
-*DCE students:* Monday and Thursday 7:55-9:55pm, online video conference.
+**Lectures:**
+Mondays, 3:00-5:30pm, Science Center 706.
+
+*First Class:*
+Monday, September 9, 2019.
 
 **Office Hours:**
 Office hours are posted [here]({{ site.baseurl }}/schedule/#lab_oh_schedule).
@@ -32,8 +36,4 @@ Materials and grades on [Canvas](https://canvas.harvard.edu/courses/61741)
 
 ### Teaching Fellows
 
-- _Head TF:_ Anna Doe (Wizard of Oz in Awesomeness)
-
-- John Doe the 1st (Masters student in Design Engineering)
-- John Doe the 2nd (Masters student in Design Engineering)
-- John Doe the 3rd (Masters student in Design Engineering)
+*TBD*

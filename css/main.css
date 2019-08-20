@@ -98,6 +98,41 @@ strong {
   color: #555;
 }
 
+hr,
+.post-content > hr {
+  position: relative;
+  margin: 3rem 6rem;
+  border: 0;
+  border-top: 1px solid #ddd;
+  overflow: visible;
+}
+
+hr:before,
+hr:after {
+  content: '';
+  position: absolute;
+  display: block;
+  left: 50%;
+  transform: translate(-50%, 0);
+}
+
+hr:before {
+  top: -0.6rem;
+  width: 1.2rem;
+  height: 1.2rem;
+  background: #f5f5f5;
+  box-shadow: 0 0 0 1px #ddd;
+  border-radius: 0.25rem;
+}
+
+hr:after {
+  top: -0.25rem;
+  width: 0.5rem;
+  height: 0.5rem;
+  background: black;
+  border-radius: 0.1rem;
+}
+
 /* Utility */
 .wrap:before,
 .wrap:after {
@@ -270,6 +305,14 @@ table th, table td {
 /* General classes */
 .no-list-style {
   list-style: none;
+}
+
+.smaller {
+  font-size: 0.95em;
+}
+
+.lighter {
+  opacity: 0.75;
 }
 
 

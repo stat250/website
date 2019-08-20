@@ -11,7 +11,7 @@ Welcome to STAT250! This seminar is limited enrollment, and will only be offered
 
 This is the question that we, the instructors, faced over a year ago, and we have been working on it ever since. In this seminar we will take you along on our journey to develop the Elements of Data Science course (DS10) that will be offered in the spring 2020 in the Quantitative Reasoning with Data GenEd category. You will learn diverse facets of the data science process, make connections between different disciplines and data science, and be exposed to modern course pedagogy, including the HBS case method.
 
-## Why should I take this course?
+### Why should I take this course?
 
 Quoting Hal Varian, Chief Economist at Google, who said that:
 

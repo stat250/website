@@ -313,8 +313,33 @@ table th, table td {
   list-style: none;
 }
 
-.smaller {
+.large {
+  font-size: 1.125em;
+}
+
+.larger {
+  font-size: 1.25em;
+}
+
+.small {
   font-size: 0.95em;
+}
+
+.smaller {
+  font-size: 0.85em;
+}
+
+.dark {
+  color: #444;
+}
+
+.dark strong {
+  color: #222;
+}
+
+.darker,
+.darker strong {
+  color: black;
 }
 
 .lighter {
@@ -1112,6 +1137,11 @@ table th, table td {
 }
 
 @media screen and (max-width: 40rem) {
+  hr,
+  .post-content > hr {
+    margin: 3rem 3rem;
+  }
+
   .wrap {
     padding: 0 1rem;
   }

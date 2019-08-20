@@ -2,11 +2,19 @@
 
   <div class="wrap">
     <div class="flex-c flex-jc-sb site-footer-wrap">
-      <h2 class="footer-heading">Harvard STAT 250</h2>
+      <h2 class="flex-c flex-v footer-heading">
+        <span class="footer-heading-harvard">Harvard</span>
+        <span class="flex-c">
+          <span class="footer-heading-stat">STAT 250</span>
+          <span class="flex-c flex-a-c footer-heading-year">
+            <span>2019</span>
+          </span>
+        </span>
+      </h2>
 
       <nav>
         <ul class="flex-c">
-          {% assign spages = site.pages | sort: 'order' %}
+          {% assign spages = site.pages | where_exp: "item" , "item.path contains '2019'" | sort: 'order' %}
 
           {% for spage in spages %}
            {% unless spage.url == "/" or spage.url == "/redirects.json" or spage.exclude or spage.nomenu %}
@@ -21,13 +29,17 @@
             {% endunless %}
           {% endfor %}
           <li>
-            <a href="https://canvas.harvard.edu/courses/61741">
+            <a href="https://canvas.harvard.edu/courses/62138">
               Canvas
             </a>
           </li>
         </ul>
       </nav>
     </div>
+
+    <p class="attributions">
+      Logo and website design by <a href="https://lekschas.de">Fritz Lekschas</a>.
+    </p>
   </div>
 
 </footer>

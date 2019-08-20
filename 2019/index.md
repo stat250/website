@@ -8,6 +8,8 @@ redirect_from: "/"
 
 Data science combines data, statistical thinking, and computation to gain insights and make inferences and predictions. This seminar will focus on designing a new introductory data science course that takes a holistic approach to the data science process, helping students understand the key factors involved, from data collection and exploratory data analysis to modeling, evaluation, and communication of results. Participants in the seminar will also learn data science concepts through developing and evaluating data science case studies.
 
+This seminar is limited enrollment, and will only be offered once; please fill out this survey by Friday, September 6, if you are interested in joining!
+
 
 ### Instructors
 

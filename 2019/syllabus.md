@@ -10,6 +10,8 @@ Welcome to STAT250! **This seminar is limited enrollment, and will only be offer
 
 ---
 
+## Learn data science by teaching it!
+
 ### How do you create a new, exciting data science course for the Harvard GenEd program?
 
 This is the question that we, the instructors, faced over a year ago, and we have been working on it ever since. In this seminar we will take you along on our journey to develop the Elements of Data Science course (DS10) that will be offered in spring 2020, intended for the new Quantitative Reasoning with Data requirement that all Harvard College students will have to satisfy. You will learn diverse facets of the data science process, make connections between different disciplines and data science, and be exposed to modern course pedagogy, including the Harvard Business School case method. 

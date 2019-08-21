@@ -6,7 +6,7 @@ order: 1
 redirect_from: "/"
 ---
 
-Welcome to STAT250! **This seminar is limited enrollment, and will only be offered once; please fill out [this survey](https://docs.google.com/forms/d/e/1FAIpQLSci5dnSypW6J7mNuCdlXb16Pu2-lTD_7XMFT9YjFu7SBcxdRQ/viewform?usp=sf_link) by Friday, September 6, if you are interested in joining!**
+Welcome to STAT250! **This seminar is limited enrollment, and will only be offered once; please fill out [this survey](https://docs.google.com/forms/d/e/1FAIpQLSci5dnSypW6J7mNuCdlXb16Pu2-lTD_7XMFT9YjFu7SBcxdRQ/viewform?usp=sf_link) by Friday, September 6, if you are interested in joining! We will accept late submissions on a case by case basis.**
 {: .larger .darker}
 
 ---

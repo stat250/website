@@ -42,4 +42,4 @@ Materials and grades on [Canvas](https://canvas.harvard.edu/courses/61741)
 
 ### Teaching Fellows
 
-*TBD*
+Salma Abdel Magid

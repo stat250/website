@@ -5,7 +5,7 @@ menu: Syllabus
 order: 2
 ---
 
-Welcome to STAT250! **This seminar is limited enrollment, and will only be offered once; please fill out [this survey](https://docs.google.com/forms/d/e/1FAIpQLSci5dnSypW6J7mNuCdlXb16Pu2-lTD_7XMFT9YjFu7SBcxdRQ/viewform?usp=sf_link) by Friday, September 6, if you are interested in joining!**
+Welcome to STAT250! **This seminar is limited enrollment, and will only be offered once; please fill out [this survey](https://docs.google.com/forms/d/e/1FAIpQLSci5dnSypW6J7mNuCdlXb16Pu2-lTD_7XMFT9YjFu7SBcxdRQ/viewform?usp=sf_link) by Friday, September 6, if you are interested in joining! We will accept late submissions on a case by case basis.**
 {: .larger .darker}
 
 ---
@@ -52,7 +52,7 @@ This course can be taken for a letter grade only, there is no pass/fail option. 
 
 ### How can I enroll in this course?
 
-To assure that everybody gets a chance to actively participate in class we are limiting enrollment to 20 students. Since the semester start falls on a holiday (Labor Day) the first class will be on Monday, September 9, the same day your study cards are due. It is therefore important that you **indicate your interest in enrolling by filling out [this survey](https://docs.google.com/forms/d/e/1FAIpQLSci5dnSypW6J7mNuCdlXb16Pu2-lTD_7XMFT9YjFu7SBcxdRQ/viewform?usp=sf_link) by September 6!**
+To assure that everybody gets a chance to actively participate in class we are limiting enrollment to 20 students. Since the semester start falls on a holiday (Labor Day) the first class will be on Monday, September 9, the same day your study cards are due. It is therefore important that you **indicate your interest in enrolling by filling out [this survey](https://docs.google.com/forms/d/e/1FAIpQLSci5dnSypW6J7mNuCdlXb16Pu2-lTD_7XMFT9YjFu7SBcxdRQ/viewform?usp=sf_link) by September 6! We will accept late submissions on a case by case basis.**
 
 ### Can only graduate students enroll?
 

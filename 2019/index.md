@@ -11,7 +11,7 @@ Welcome to STAT250! **This seminar is limited enrollment, and will only be offer
 
 ---
 
-Data science combines data, statistical thinking, and computation to gain insights and make inferences and predictions. This seminar will focus on designing a new introductory data science course that takes a holistic approach to the data science process, helping students understand the key factors involved, from data collection and exploratory data analysis to modeling, evaluation, and communication of results. Participants in the seminar will also learn data science concepts through developing and evaluating data science case studies.
+Data science combines data, statistical thinking, and computation to gain insights and make inferences and predictions. This seminar will focus on effective strategies for teaching data science. To do this, students will participate in designing a new introductory data science course that takes a holistic approach to the data science process, helping students understand the key factors involved, from data collection and exploratory data analysis to modeling, evaluation, and communication of results. Participants in the seminar will also learn data science concepts through developing and evaluating data science case studies.
 {: .large .dark}
 
 
@@ -42,4 +42,4 @@ Materials and grades on [Canvas](https://canvas.harvard.edu/courses/61741)
 
 ### Teaching Fellows
 
-Salma Abdel Magid
+TBD

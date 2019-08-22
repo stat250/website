@@ -5,10 +5,12 @@ menu: Syllabus
 order: 2
 ---
 
-Welcome to STAT250! **This seminar is limited enrollment, and will only be offered once; please fill out [this survey](https://docs.google.com/forms/d/e/1FAIpQLSci5dnSypW6J7mNuCdlXb16Pu2-lTD_7XMFT9YjFu7SBcxdRQ/viewform?usp=sf_link) by Friday, September 6, if you are interested in joining!**
+Welcome to STAT250! **This seminar is limited enrollment, and will only be offered once; please fill out [this survey](https://docs.google.com/forms/d/e/1FAIpQLSci5dnSypW6J7mNuCdlXb16Pu2-lTD_7XMFT9YjFu7SBcxdRQ/viewform?usp=sf_link) by Friday, September 6, if you are interested in joining! We will accept late submissions on a case by case basis.**
 {: .larger .darker}
 
 ---
+
+## Learn data science by teaching it!
 
 ### How do you create a new, exciting data science course for the Harvard GenEd program?
 
@@ -52,7 +54,7 @@ This course can be taken for a letter grade only, there is no pass/fail option. 
 
 ### How can I enroll in this course?
 
-To assure that everybody gets a chance to actively participate in class we are limiting enrollment to 20 students. Since the semester start falls on a holiday (Labor Day) the first class will be on Monday, September 9, the same day your study cards are due. It is therefore important that you **indicate your interest in enrolling by filling out [this survey](https://docs.google.com/forms/d/e/1FAIpQLSci5dnSypW6J7mNuCdlXb16Pu2-lTD_7XMFT9YjFu7SBcxdRQ/viewform?usp=sf_link) by September 6!**
+To assure that everybody gets a chance to actively participate in class we are limiting enrollment to 20 students. Since the semester start falls on a holiday (Labor Day) the first class will be on Monday, September 9, the same day your study cards are due. It is therefore important that you **indicate your interest in enrolling by filling out [this survey](https://docs.google.com/forms/d/e/1FAIpQLSci5dnSypW6J7mNuCdlXb16Pu2-lTD_7XMFT9YjFu7SBcxdRQ/viewform?usp=sf_link) by September 6! We will accept late submissions on a case by case basis.**
 
 ### Can only graduate students enroll?
 
@@ -92,13 +94,13 @@ Avoid using **cell phones** in class, which can prevent you or others from learn
 **Attendance** is mandatory. Sign in every class at the beginning. If you come in late, sign in after class--you don't want to be marked absent by mistake.
 {: .smaller .lighter}
 
-We get there are **emergencies** or things that come up. Do your best to tell us in advance (at least a day before if possible). An authorized note (from a doctor, employer, etc.) may excuse an absence or lateness, but only if submitted. Telling us you will get a note and forgetting to submit one will not excuse you.
+We get there are **emergencies** or **conflicting professional obligations**. Do your best to tell us in advance (at least a day before if possible). An authorized note (from a doctor, employer, conference registration, etc.) may excuse an absence or lateness, but only if submitted in a timely fashion. Telling us you will get a note and forgetting to submit one will not excuse you.
 {: .smaller .lighter}
 
-**Submit** all assignments and your final project milestones on Canvas. Late submissions will not be accepted unless you had an emergency.
+**Submit** all assignments and your final project milestones on Canvas. Late submissions will not be accepted unless you had an emergency or conflicting professional obligations.
 {: .smaller .lighter}
 
-We expect you to adhere to the [Harvard Honor Code](https://honor.fas.harvard.edu/honor-code) at all times. Failure to adhere to the honor code and our policies may result in serious penalties, up to and including automatic failure in the course and reference to the ad board.
+We expect you to adhere to the [Harvard Honor Code](https://honor.fas.harvard.edu/honor-code) or the [GSAS Academic Integrity policy](https://gsas.harvard.edu/codes-conduct/academic-integrity/) at all times. Failure to adhere to the honor code and the GSAS policies may result in serious penalties, up to and including automatic failure in the course and reference to the ad board.
 {: .smaller .lighter}
 
 If you have a **documented disability** (physical or cognitive) that may impair your ability to complete assignments or otherwise participate in the course and satisfy course criteria, please meet with us at your earliest convenience to identify, discuss, and document any feasible instructional modifications or accommodations. You should also contact the Accessible Education Office to request an official letter outlining authorized accommodations.

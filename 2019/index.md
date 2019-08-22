@@ -33,11 +33,11 @@ Mondays, 3:00-5:30pm, Science Center 706.
 Monday, September 9, 2019.
 
 **Office Hours:**
-Office hours will be posted on [Canvas](https://canvas.harvard.edu/courses/61741)
+Office hours will be posted on [Canvas](https://canvas.harvard.edu/courses/62138)
 
 **Lecture Resources:**
 Discussion forum on [Piazza](https://piazza.com/harvard/fall2019/stat250/home).
-Materials and grades on [Canvas](https://canvas.harvard.edu/courses/61741)
+Materials and grades on [Canvas](https://canvas.harvard.edu/courses/62138)
 
 
 ### Teaching Fellows

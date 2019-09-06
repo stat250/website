@@ -66,7 +66,7 @@ You do not need to purchase any textbook for this seminar. Instead, you will be 
 
 ### What are the course assignments?
 
-Take a look at the course schedule to see the due dates for homework and project milestones. These will be described in more detail in the descriptions for each assignment that we will upload on Canvas. 
+Take a look at the course schedule to see the due dates for homework and project milestones. These will be described in more detail in the descriptions for each assignment that we will upload on Canvas. \
 
 ### What is Elements of Data Science (DS10)?
 
@@ -92,6 +92,9 @@ Avoid using **cell phones** in class, which can prevent you or others from learn
 {: .smaller .lighter}
 
 **Attendance** is mandatory. Sign in every class at the beginning. If you come in late, sign in after class--you don't want to be marked absent by mistake.
+{: .smaller .lighter}
+
+The intent of this graduate seminar course is to develop course materials for future courses. If you enroll in STAT 250 you agree that ***all of the work you produce in this seminar course may be used as material for a future course.*** Please let us know if you have any issues or concerns with this.
 {: .smaller .lighter}
 
 We get there are **emergencies** or **conflicting professional obligations**. Do your best to tell us in advance (at least a day before if possible). An authorized note (from a doctor, employer, conference registration, etc.) may excuse an absence or lateness, but only if submitted in a timely fashion. Telling us you will get a note and forgetting to submit one will not excuse you.
